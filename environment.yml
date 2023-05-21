@@ -1,4 +1,4 @@
-name: square-well-emulators-env
+name: solve-ode-env
 
 channels:
   - conda-forge
@@ -8,8 +8,6 @@ dependencies:
   - python=3.10.8
   - numpy=1.23.5
   - scipy=1.9.3
-  - pandas=1.5.2
-  - seaborn=0.12.1
   - matplotlib=3.6.2
   - matplotlib-inline>=0.1.6
   - notebook=6.5.2
